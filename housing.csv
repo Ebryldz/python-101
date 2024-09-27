@@ -1,0 +1,9 @@
+price,area,bedrooms,stories,bathrooms,furnishingstatus
+45000,2000,3,2,2,furnished
+35000,1500,2,1,1,semi-furnished
+35000,1500,2,1,1,semi-furnished
+75000,3000,4,2,3,unfurnished
+65000,2200,3,1,2,furnished
+50000,1800,2,2,1,semi-furnished
+80000,3200,4,3,3,unfurnished
+60000,2000,3,2,2,furnished
